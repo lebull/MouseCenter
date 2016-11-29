@@ -1,0 +1,9 @@
+future==0.16.0
+pefile==2016.3.28
+Pillow==3.4.2
+PyAutoGUI==0.9.33
+PyInstaller==3.2
+PyMsgBox==1.0.3
+pypiwin32==219
+PyScreeze==0.1.8
+PyTweening==1.0.3
